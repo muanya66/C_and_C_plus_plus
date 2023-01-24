@@ -1,0 +1,1 @@
+Petrov_Petr 21 25000.000000 Komarov_Alex 42 46000.000000 Ivanov_Tamir 39 15000.000000 Koptelova_Tanya 36 36000.000000 Kuzmich_Prohor 52 29000.000000 Komrakov_Pavel 25 25000.000000
